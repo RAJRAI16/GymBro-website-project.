@@ -1,0 +1,34 @@
+
+.*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.navbar-brand{
+    font-size: xx-large;
+    font-weight: bolder;
+    
+}
+
+.navbar-brand img{
+    height: 30px;
+}
+
+.container-fluid{
+    font-size: x-large;
+    font-weight: bolder;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.dropdown-menu{
+    font-size: x-large;
+    font-weight: bolder;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+
+.card-header py-3{
+    background-color: rgb(200, 196, 196);
+}
